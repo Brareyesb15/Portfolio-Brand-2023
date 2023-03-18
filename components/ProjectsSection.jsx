@@ -17,8 +17,8 @@ const projects = [
     name: "Portfolio Brand",
     description: "Portfolio Brand es este proyecto, mi portfolio. Creado utilizando Next.js y un poco de Tailwind.",
     image: "/PortfolioBrand.png",
-    github: "",
-    link: "",
+    github: "https://github.com/Brareyesb15/Portfolio-Brand-2023",
+    link: "https://portfolio-brand-2023.vercel.app/",
   },
   {
     name: "Rick And Morty App",
