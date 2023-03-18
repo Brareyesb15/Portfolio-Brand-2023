@@ -2,7 +2,7 @@ import React from "react"
 import Image from "next/image"
 
 const skills = [
-    { skill: "/javaScript.png", name: "JavaScript"},
+    // { skill: "/javaScript.png", name: "JavaScript"},
     { skill: "/Postgresql.png" ,name : "PostgreSQL" },
     { skill: "/Node.png", name : "NodeJS" },
     { skill: "/react.png", name : "React" },
