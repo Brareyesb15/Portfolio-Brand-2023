@@ -11,7 +11,7 @@ const projects = [
       "Capacitech Kids es un e-learning enfocado en niños. En este proyecto me encargué de la creación de la base de datos en postgreSQL,  el establecimiento del Backend a través de sequelize y Express y de funcionalidades en el frontend a través de react y redux. ",
     image: "/CapacitechKids.png",
     github: "https://github.com/MemoRodz/CapaciTechKidsBack",
-    link: "https://capacitechkids-production-fe31.up.railway.app/",
+    link: "https://capacitechkids-production-dff9.up.railway.app",
   },
   {
     name: "Portfolio Brand",
